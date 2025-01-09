@@ -44,11 +44,3 @@ python ssh_automation.py
 ## 使用说明
 
 详细的使用说明请参考 [ReadME.m](ReadME.m)
-
-## 贡献
-
-欢迎提交Issue和Pull Request！
-
-## 许可证
-
-MIT License 
